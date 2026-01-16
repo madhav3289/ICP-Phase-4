@@ -59,5 +59,9 @@ public class median_of_two_sorted_array {
     }
 
     // Optimal >> Binary Search ( TC-> O(log(n+m)) SC-> O(1))
+    // public static double solveBinary(int [] nums1,int [] nums2){
+
+    // }
+
 
 }
