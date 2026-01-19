@@ -8,7 +8,7 @@ public class Stack_Imp_Array {
         // input the size of stack
         int n=in.nextInt();
         // create a stack
-        Stack st=new Stack(n);
+        Stack1 st=new Stack1(n);
         // push elements
         st.push(13);
         st.push(14);
@@ -30,13 +30,13 @@ public class Stack_Imp_Array {
 
     }
 }
-class Stack{
+class Stack1{
     int [] arr;
     int cap;
     int top;
 
     // create a Stack constructor
-    Stack(int n){
+    Stack1(int n){
         arr=new int[n];
         cap=n;
         top=-1;
