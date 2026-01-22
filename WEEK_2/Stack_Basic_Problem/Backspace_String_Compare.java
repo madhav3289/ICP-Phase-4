@@ -1,4 +1,4 @@
-package WEEK_2;
+package WEEK_2.Stack_Basic_Problem;
 
 import java.util.Scanner;
 import java.util.Stack;
