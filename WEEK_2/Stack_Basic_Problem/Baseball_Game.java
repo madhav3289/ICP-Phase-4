@@ -1,7 +1,6 @@
 package WEEK_2.Stack_Basic_Problem;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class Baseball_Game {
     public static void main(String[] args) {

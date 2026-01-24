@@ -1,7 +1,6 @@
 package WEEK_2.Stack_Basic_Problem;
 
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 public class Backspace_String_Compare {
     public static void main(String[] args) {
